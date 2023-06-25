@@ -1,7 +1,7 @@
 # BDCP_Project
-Biological Datasets for Computational Physics
-Cancer mutations in Sororin protein - Q96FF9
-Matteo Pedrazzi
+Biological Datasets for Computational Physics<br>
+Cancer mutations in Sororin protein - Q96FF9<br>
+Matteo Pedrazzi<br>
 
 The Sororin protein, encoded by the CDCA5 gene, plays a critical role in maintaining genomic
 stability and regulating cell division. Alterations in Sororin due to cancer-associated mutations
